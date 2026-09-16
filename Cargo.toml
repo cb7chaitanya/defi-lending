@@ -1,0 +1,12 @@
+[package]
+name = "defi-lending"
+version = "0.1.0"
+edition = "2024"
+description = "Lending-market accounting from first principles, implemented and property-tested in Rust."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/cb7chaitanya/defi-lending"
+
+[dependencies]
+
+[dev-dependencies]
+proptest = "1"
